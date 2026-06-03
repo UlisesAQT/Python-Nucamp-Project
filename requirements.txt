@@ -1,0 +1,11 @@
+alembic
+Faker
+Flask
+Flask-Migrate
+Flask-SQLAlchemy
+psycopg2-binary
+SQLAlchemy
+
+
+to start the venv machine use this command 
+source venv/bin/activate  # Mac/Linux
